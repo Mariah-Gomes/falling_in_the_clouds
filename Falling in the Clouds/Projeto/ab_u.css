@@ -1,0 +1,69 @@
+body{
+    box-sizing: border-box;
+    background-color: #def4ff;
+}
+.header {
+    background-color: #90b7ff;
+    text-align: center;
+    padding: 20px;
+    font-family: "Bookman Old Style", sans-serif;
+    font-size: 20px;
+    color: navy;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #6299ff;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: "Century Gothic", sans-serif;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: lightblue;
+    color: black;
+    left: 50%;
+}
+
+p{
+    font-family: "Century Gothic", cursive;
+    font-size: 17px;
+}
+
+h3{
+    font-family: "Bookman Old Style", sans-serif;
+    font-size: 22px;
+    color: navy;
+}
+
+footer {
+    background-color: #90b7ff;
+    padding: 10px;
+    position: relative;
+    top: 100%
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+.row:after {
+    content: " ";
+    display: table;
+    clear: both;
+}
+
+@media screen and (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+}

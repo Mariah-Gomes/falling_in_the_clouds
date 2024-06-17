@@ -1,0 +1,63 @@
+body{
+    text-align: center;
+    background-color: #def4ff;
+}
+
+.header {
+    background-color: #90b7ff;
+    text-align: center;
+    padding: 10px;
+    font-family: "Bookman Old Style", sans-serif;
+    font-size: 20px;
+    color: navy;
+}
+
+#myCanvas{
+    position: absolute;
+    left: 33%;
+    top: 20%;
+}
+
+.click{
+    position: absolute;
+    left: 46%;
+    top: 100%
+}
+
+audio{
+    visibility: hidden;
+    position: absolute;
+    left: 60%;
+    top: 50%;
+    marquee-loop: infinite;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #6299ff;
+    position: absolute;
+    left: 5%;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: "Century Gothic", sans-serif;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: lightblue;
+    color: black;
+    left: 50%;
+}
+
+h2{
+    font-family: "Bookman Old Style", sans-serif;
+    font-size: 20px;
+    color: navy;
+}

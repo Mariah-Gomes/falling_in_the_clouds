@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Game</title>
+    <link href="GAME.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width">
+</head>
+<body>
+<div class="header">
+    <h1> Falling in the Clouds </h1>
+</div>
+<br> <br>
+<div class= "topnav a">
+    <h2> Menu: </h2>
+    <a href="aboutgame.html"> About the Game </a>
+    <a href="aboutus.html"> About Us </a>
+</div>
+
+<audio controls loop autoplay>
+    <source id="sound" src="som.ogg" type="audio/ogg">
+    <source id="sound1" src="som.mp3" type="audio/mpeg">
+</audio>
+
+<button onclick="anima();" class="click" style="background-color: midnightblue; color: white; border: 1px solid white;">Start the Game</button>
+<canvas id="myCanvas" height="500" width="500" style="border:1px solid black; "></canvas>
+
+<p></p>
+<script src="game.js"></script>
+</body>
+</html>
