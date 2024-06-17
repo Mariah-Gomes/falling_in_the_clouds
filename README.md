@@ -1,12 +1,10 @@
-# Falling Clouds
-
-Antes mostra algumas informações do projeto
+# Falling in the Clouds
 
 > Status do projeto: Finalizado
 
-> Esse projeto nos foi proposto no 4ºSemestre na disciplina de Computação Móvel
+> Esse projeto nos foi proposto no 1ºSemestre na disciplina de Desenvolvimento de Web
 
-> Programamos inicialmente esse projeto no tinkercad juntos, depois passamos para a IDE do Arduino logo que fizemos isso subimos o arquivo do Arduino IDE no GitHub  
+> Nesse projeto programamos ele em conjunto e decidimos subir ele recentemente no GitHub
 
 ### Tópicos
 
