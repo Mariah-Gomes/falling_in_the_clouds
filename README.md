@@ -25,8 +25,11 @@ Falling in the clouds é um jogo onde o usuário começa no céu e seu objetivo 
 Aqui mostra as funcionalidades do projeto em tópicos (de numeração e com a foto)
 
 1. Primeira página: Informações sobre os desenvolvedores
-2. Segunda página: Como jogar o jogo
-3. Terceira página: O jogo
+   
+   ![image](https://github.com/Mariah-Gomes/site_jogo_web/assets/141663285/a946150a-435f-4aba-9082-6dd44402d59b)
+
+3. Segunda página: Como jogar o jogo
+4. Terceira página: O jogo
    Colocar um gif do jogo
 
 ## :computer: Tecnologias Utilizadas
