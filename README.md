@@ -28,9 +28,13 @@ Aqui mostra as funcionalidades do projeto em tópicos (de numeração e com a fo
    
    ![image](https://github.com/Mariah-Gomes/site_jogo_web/assets/141663285/a946150a-435f-4aba-9082-6dd44402d59b)
 
-3. Segunda página: Como jogar o jogo
-4. Terceira página: O jogo
-   Colocar um gif do jogo
+2. Segunda página: Como jogar o jogo
+
+   ![image](https://github.com/Mariah-Gomes/site_jogo_web/assets/141663285/b6533330-3d42-4f0e-aa69-95c8c784f219)
+
+3. Terceira página: O jogo
+
+   ![image](https://github.com/Mariah-Gomes/site_jogo_web/assets/141663285/91b4bdf4-5338-4036-a163-170dfd17756c)
 
 ## :computer: Tecnologias Utilizadas
 - Utilizamos as seguintes linguagens: HTML, CSS e JavaScript
