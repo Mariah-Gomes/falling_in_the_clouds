@@ -40,5 +40,5 @@ Aqui mostra as funcionalidades do projeto em tópicos (de numeração e com a fo
 - Utilizamos as seguintes linguagens: HTML, CSS e JavaScript
 
 ## :busts_in_silhouette: Desenvolvedores
-| [<img loading="lazy" src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/e6827fd1-d8fe-4740-b6fc-fbbfccd05752" width=115><br><sub>Mariah Santos Gomes</sub>](https://github.com/Mariah-Gomes) | [<img loading="lazy" src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/66d7e656-b9e4-43b7-94fa-931b736df881" width=115><br><sub>Iago Rosa de Oliveira</sub>](https://github.com/iagorosa28) |
+| [<img loading="lazy" src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/e6827fd1-d8fe-4740-b6fc-fbbfccd05752" width=115><br><sub>Mariah Santos Gomes</sub>](https://github.com/Mariah-Gomes) | [<img loading="lazy" src="https://github.com/Mariah-Gomes/site_jogo_web/assets/141663285/020c0328-fb3c-49d4-9ece-94eab0bdb0cf" width=115><br><sub>Anna Carolina Zomer</sub>](https://github.com/z0mer) |
 | :---: | :---: |
