@@ -1,12 +1,10 @@
 # Falling in the Clouds
 
-> Status do projeto: Finalizado, porém melhorando alguns erros que ficaram na época
+> Status do projeto: Finalizado
 
 > Esse projeto nos foi proposto no 1ºSemestre na disciplina de Desenvolvimento de Web
 
 > Nesse projeto programamos ele em conjunto e decidimos subir ele recentemente no GitHub
-
-> A pasta Falling in the Clouds/Projeto está a versão que programamos naquela época. Porém, estou trabalhando em uma nova versão que estará na pasta Falling in the Clouds/Versao Nova
 
 ### Tópicos
 
